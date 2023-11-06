@@ -7,8 +7,6 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [How to Contribute](#how-to-contribute)
 - [Affiliate Programs](#affiliate-programs)
   - [Graphic Design](#graphic-design)
   - [Web Design](#web-design)
@@ -18,28 +16,41 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 - [Contributors](#contributors)
 - [License](#license)
 
-## Introduction
-
-As a designer, you have a unique opportunity to promote products and services related to your industry while earning commissions through affiliate marketing. This repository aims to compile a list of affiliate programs that cater to various design niches. Whether you're into graphic design, web design, UI/UX design, or any other design field, you'll find affiliate programs that suit your interests.
-
-## How to Contribute
-
-We welcome contributions from the community to help keep this list up to date. If you have information about an affiliate program suitable for designers that is not already listed, please follow these steps to contribute:
-
-1. Fork this repository.
-2. Edit the README.md file to add the new affiliate program under the appropriate category.
-3. Include a brief description of the affiliate program, the types of products or services it offers, and the commission structure.
-4. Create a pull request to submit your changes.
-
-Your contributions will help other designers discover new opportunities to monetize their skills.
-
-## Affiliate Programs
+## Affiliate Programs For Designer
 
 ### Graphic Design
 
-- [Affiliate Program Name](Affiliate Program URL)
-  - Description: A brief description of the affiliate program and the products/services it offers.
-  - Commission Structure: Explain how commissions are earned and paid out.
+1. [Adobe Creative Cloud](https://www.adobe.com/affiliates.html)
+   - Description: Adobe Creative Cloud offers a suite of industry-standard design software, including Photoshop, Illustrator, and InDesign.
+   - Commission Structure: Earn a commission for each new Creative Cloud subscription or product purchase referred.
+
+2. [Canva](https://www.canva.com/affiliates/)
+   - Description: Canva is a popular online graphic design tool. Join their affiliate program to promote Canva Pro subscriptions and earn commissions.
+   - Commission Structure: Earn a commission for each referred Canva Pro sale.
+
+3. [CorelDRAW](https://www.corel.com/en/partner-program/)
+   - Description: CorelDRAW is a versatile graphic design software. Their affiliate program allows you to promote CorelDRAW products and earn commissions.
+   - Commission Structure: Earn a commission on referred product sales.
+
+5. [PicMonkey](https://www.picmonkey.com/promos/partner-with-us)
+   - Description: PicMonkey is an online design and photo editing tool. Their affiliate program lets you earn commissions by referring new users.
+   - Commission Structure: Earn a commission for each referred sale or subscription.
+
+6. [Gravit Designer](https://www.corel.com/en/partner-program)
+   - Description: Gravit Designer is a vector graphic design software. Promote Gravit and earn commissions through their affiliate program. This tool is already acquired by Corel.
+   - Commission Structure: Earn a commission for referred product sales.
+
+7. [Fotor](https://www.fotor.com/affiliates.html)
+   - Description: Fotor is an online graphic design platform. Join their affiliate program to promote Fotor's features and products.
+   - Commission Structure: Earn commissions for referred Pro plan subscriptions.
+
+9. [DesignCap](https://www.designcap.com/affiliate.html)
+   - Description: DesignCap is an online graphic design tool. Their affiliate program lets you promote DesignCap and earn commissions.
+   - Commission Structure: Earn a commission for referred subscriptions.
+
+10. [VistaCreate](https://create.vista.com/affiliates/)
+    - Description: VistaCreate (formerly Crello) is a graphic design tool for creating social media content and marketing materials. Join their affiliate program to promote VistaCreate.
+    - Commission Structure: Earn commissions for referred Pro and Business subscriptions.
 
 ### Web Design
 
@@ -66,6 +77,16 @@ Your contributions will help other designers discover new opportunities to monet
   - Commission Structure: Explain how commissions are earned and paid out.
 
 Feel free to add more categories or customize the structure as needed.
+
+### Other Design tools That Should Have Affiliate Program
+4. [Affinity Designer](https://affinity.serif.com/en-us/affiliates/)
+   - Description: Affinity Designer is a professional graphic design software. Join their affiliate program to promote Affinity products.
+   - Commission Structure: Earn a commission on referred product sales.
+8. [Vectr](https://vectr.com/affiliates)
+   - Description: Vectr is a free vector graphic design software. The affiliate program allows you to promote Vectr and earn commissions.
+   - Commission Structure: Earn a commission for referred Pro plan subscriptions.
+
+
 
 ### :arrow_heading_up:Submit your affiliate program
 
