@@ -1,4 +1,6 @@
 # Designer Affiliate Program Hub
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 This GitHub repository is your go-to resource for discovering affiliate programs tailored to the needs of designers. Whether you specialize in graphic design, web design, or any creative field, this curated collection will help you find lucrative partnership opportunities with brands, tools, and platforms that match your expertise.
 
 ## Sponsors
@@ -52,41 +54,134 @@ This GitHub repository is your go-to resource for discovering affiliate programs
     - Description: VistaCreate (formerly Crello) is a graphic design tool for creating social media content and marketing materials. Join their affiliate program to promote VistaCreate.
     - Commission Structure: Earn commissions for referred Pro and Business subscriptions.
 
-### Web Design
+### UI/UX Design Software Affiliate Programs (Unchecked)
 
-- [Affiliate Program Name](Affiliate Program URL)
-  - Description: A brief description of the affiliate program and the products/services it offers.
-  - Commission Structure: Explain how commissions are earned and paid out.
+1. [Sketch](https://www.sketch.com/affiliates/)
+   - Description: Sketch is a popular macOS app for UI/UX design. Join their affiliate program to promote Sketch.
+   - Commission Structure: Earn a commission for each new Sketch license sale referred.
 
-### UI/UX Design
+2. [Figma](https://www.figma.com/partners/affiliate/)
+   - Description: Figma is a cloud-based design tool for collaboration and UI/UX design. Their affiliate program allows you to promote Figma.
+   - Commission Structure: Earn commissions for referred Figma Organization subscriptions.
 
-- [Affiliate Program Name](Affiliate Program URL)
-  - Description: A brief description of the affiliate program and the products/services it offers.
-  - Commission Structure: Explain how commissions are earned and paid out.
+3. [Adobe XD](https://www.adobe.com/affiliates.html)
+   - Description: Adobe XD is Adobe's UX/UI design and prototyping tool. Join their affiliate program to promote Adobe XD.
+   - Commission Structure: Earn a commission for each new Adobe XD subscription referred.
 
-### Print Design
+4. [InVision](https://www.invisionapp.com/affiliate)
+   - Description: InVision is a prototyping and collaboration platform for UI/UX design. Their affiliate program lets you promote InVision.
+   - Commission Structure: Earn commissions for referred InVision plans.
 
-- [Affiliate Program Name](Affiliate Program URL)
-  - Description: A brief description of the affiliate program and the products/services it offers.
-  - Commission Structure: Explain how commissions are earned and paid out.
+5. [Axure RP](https://www.axure.com/affiliate)
+   - Description: Axure RP is a prototyping and wireframing tool for UI/UX designers. Join their affiliate program to promote Axure RP.
+   - Commission Structure: Earn a commission for each referred Axure RP license sale.
 
-### Design Tools
+6. [Balsamiq](https://balsamiq.com/affiliates/)
+   - Description: Balsamiq is a rapid wireframing tool for UI/UX designers. Their affiliate program allows you to promote Balsamiq.
+   - Commission Structure: Earn commissions for referred Balsamiq sales.
 
-- [Affiliate Program Name](Affiliate Program URL)
-  - Description: A brief description of the affiliate program and the products/services it offers.
-  - Commission Structure: Explain how commissions are earned and paid out.
+7. [Proto.io](https://proto.io/affiliates/)
+   - Description: Proto.io is a web-based prototyping tool for UI/UX designers. Join their affiliate program to promote Proto.io.
+   - Commission Structure: Earn commissions for referred Proto.io plans.
 
-Feel free to add more categories or customize the structure as needed.
+8. [Justinmind](https://www.justinmind.com/affiliates/)
+   - Description: Justinmind is a prototyping tool for web and mobile apps. Their affiliate program lets you promote Justinmind.
+   - Commission Structure: Earn a commission for each referred Justinmind license sale.
+
+9. [Moqups](https://moqups.com/affiliates)
+   - Description: Moqups is an online visual design tool for UI/UX designers. Join their affiliate program to promote Moqups.
+   - Commission Structure: Earn commissions for referred Moqups plans.
+
+10. [Sketch Cloud](https://sketch.cloud/affiliates/)
+    - Description: Sketch Cloud is a collaboration platform for Sketch users. Their affiliate program allows you to promote Sketch Cloud.
+    - Commission Structure: Earn a commission for referred Sketch Cloud subscription sales.
+
+Remember to visit the provided affiliate program URLs to get more information about their terms, conditions, and commission structures.
+
+
+### Web Design Software Affiliate Programs
+
+1. [Wix](https://www.wix.com/about/affiliates)
+   - Description: Wix is a popular website builder that offers a user-friendly platform for web design. Join their affiliate program to promote Wix services.
+   - Commission Structure: Earn a commission for each referred premium plan purchase.
+
+2. [Weebly](https://www.weebly.com/app-center/referrals)
+   - Description: Weebly is a website builder and e-commerce platform. Their affiliate program allows you to promote Weebly services.
+   - Commission Structure: Earn commissions for referred paid subscriptions.
+
+3. [Squarespace](https://www.squarespace.com/affiliates)
+   - Description: Squarespace is a website builder known for its elegant templates and design features. Join their affiliate program to promote Squarespace.
+   - Commission Structure: Earn a commission for each referred Squarespace sale.
+
+4. [WordPress.com](https://refer.wordpress.com/)
+   - Description: WordPress.com offers a robust platform for creating websites and blogs. Their affiliate program allows you to promote WordPress.com.
+   - Commission Structure: Earn a commission on referred paid plan subscriptions.
+
+7. [Webflow](https://webflow.com/affiliate)
+   - Description: Webflow is a web design and development platform. Join their affiliate program to promote Webflow's services.
+   - Commission Structure: Earn a commission for referred Webflow plan sales.
+
+8. [Elementor](https://elementor.com/affiliates/)
+   - Description: Elementor is a popular WordPress page builder plugin. Their affiliate program allows you to promote Elementor's features.
+   - Commission Structure: Earn commissions for referred Elementor Pro plan purchases.
+
+10. [Divi by Elegant Themes](https://www.elegantthemes.com/affiliates/)
+    - Description: Elegant Themes offers the Divi Builder, a popular WordPress page builder.
+    - Commission Structure: Earn commissions for referred Elegant Themes memberships.
+
+### Print Design Software Affiliate Programs
+
+2. [QuarkXPress](https://www.quark.com/partners)
+   - Description: QuarkXPress is a leading desktop publishing software for print and digital design.
+   - Commission Structure: Earn a commission on referred QuarkXPress product sales.
+
+8. [Printful](https://www.printful.com/affiliates)
+   - Description: Printful offers print-on-demand services for custom designs on various products.
+   - Commission Structure: Earn a commission on referred sales of custom-printed products.
+
+9. [Printify](https://printify.com/affiliate/)
+   - Description: Printify is a print-on-demand platform.
+   - Commission Structure: Earn a commission for referred sales of custom-printed products.
+
+10. [Vistaprint](https://www.vistaprint.com/reseller/)
+    - Description: Vistaprint is a popular printing and marketing materials company.
+    - Commission Structure: Earn commissions for referred product and service sales.
+
+### Design Tools Software Affiliate Programs (Unchecked)
+
+1. [Adobe Stock](https://stock.adobe.com/affiliates)
+   - Description: Adobe Stock is a stock photo and design asset platform.
+   - Commission Structure: Earn a commission for each referred Adobe Stock subscription or asset sale.
+
+2. [Shutterstock](https://www.shutterstock.com/affiliates)
+   - Description: Shutterstock is a popular stock photo and asset platform.
+   - Commission Structure: Earn commissions for referred image, video, or music sales.
+
+4. [Envato Elements](https://elements.envato.com/affiliate-program)
+   - Description: Envato Elements provides a vast collection of design assets.
+   - Commission Structure: Earn commissions for referred subscriptions to their design assets library.
+
+8. [Piktochart](https://piktochart.com/affiliates/)
+   - Description: Piktochart is an infographic and design tool.
+   - Commission Structure: Earn commissions for referred subscriptions to their design services.
+
+9. [DesignCap](https://www.designcap.com/affiliate.html)
+   - Description: DesignCap is an online graphic design tool.
+   - Commission Structure: Earn a commission for referred subscriptions.
+
+10. [Visme](https://www.visme.co/affiliates/)
+    - Description: Visme is a visual content creation tool.
+    - Commission Structure: Earn commissions for referred subscriptions to their design platform.
 
 ### Other Design tools That Should Have Affiliate Program
-4. [Affinity Designer](https://affinity.serif.com/en-us/affiliates/)
-   - Description: Affinity Designer is a professional graphic design software. Join their affiliate program to promote Affinity products.
-   - Commission Structure: Earn a commission on referred product sales.
-8. [Vectr](https://vectr.com/affiliates)
-   - Description: Vectr is a free vector graphic design software. The affiliate program allows you to promote Vectr and earn commissions.
-   - Commission Structure: Earn a commission for referred Pro plan subscriptions.
-
-
+1. [Affinity Designer](https://affinity.serif.com/en-gb/)
+   - Description: Affinity Designer is a professional graphic design software.
+1. [Vectr](https://vectr.com)
+   - Description: Vectr is a free vector graphic design software.
+4. [Marq(Formerly Lucidpress)](https://www.marq.com/)
+   - Description: Marq is a web-based design and layout tool.
+5. [Scribus](https://www.scribus.net/affiliates/)
+   - Description: Scribus is an open-source desktop publishing software.
 
 ### :arrow_heading_up:Submit your affiliate program
 
