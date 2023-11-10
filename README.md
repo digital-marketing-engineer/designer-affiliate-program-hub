@@ -44,6 +44,7 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 15. [Placeit](https://placeit.net/affiliate-program)
 16. [Easil](https://about.easil.com/affiliate-program/)
 17. [Stencil](https://getstencil.com/affiliates)
+18. [Appsumo Design Tools](https://go.appsumo.com/become-appsumo-affiliate) although Appsumo is not only selling design tools, but their website is a must-go-to website for every design. You might find the next Canva there with a lifetime deal.
 
 ### UI/UX Design Software Affiliate Programs (Unchecked)
 
