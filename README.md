@@ -40,6 +40,10 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 11. [snappa](https://snappa.com/affiliates)
 12. [Astute Graphics](https://astutegraphics.com/affiliate)
 13. [Pixlr](https://blog.pixlr.com/pixlr-affiliate-partner-program/)
+14. [Designs.ai](https://designs.ai/en/affiliate)
+15. [Placeit](https://placeit.net/affiliate-program)
+16. [Easil](https://about.easil.com/affiliate-program/)
+17. [Stencil](https://getstencil.com/affiliates)
 
 ### UI/UX Design Software Affiliate Programs (Unchecked)
 
@@ -81,6 +85,7 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 
 10. [**Divi by Elegant Themes**](https://www.elegantthemes.com/affiliates/) offers the Divi Builder, a popular WordPress page builder. Earn commissions for referred Elegant Themes memberships.
 11. [WebNode](https://www.webnode.com/affiliate/)
+12. [designmodo](https://designmodo.com/affiliates/)
 
 ### Print Design Software Affiliate Programs
 
@@ -142,6 +147,7 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 2. [LTK Creator formerly RewardStyle](https://company.shopltk.com/en/creator)
 3. [SideDoor](https://www.onsidedoor.com/)
 4. [Build with Ferguson](https://www.build.com/support/affiliates)
+5. [Architectural Designs](https://www.architecturaldesigns.com/services/become-an-affiliate)
 
 ### 3D Design tools affiliate program
 1. [AutoDesk](https://www.autodesk.com/affiliate-program/overview)
@@ -162,8 +168,6 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 7. [Nvidia](https://www.nvidia.com/en-us/about-nvidia/partners/), although there is partner network, it is for enterprise-level providing solution and training, and by no means not suitable for freelancer or any designer that works for a company. It will be great if they have an affiliate program for individuals.
 8. [DeviantArt](https://www.deviantart.com/)
 9. [Dribbble](https://dribbble.com/)
-
-
 
 ### :arrow_heading_up:Submit your affiliate program
 
