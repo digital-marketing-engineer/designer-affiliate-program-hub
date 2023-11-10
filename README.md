@@ -91,6 +91,7 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 9. [**Printify**](https://printify.com/affiliate/) is a print-on-demand platform. Earn a commission for referred sales of custom-printed products.
 
 10. [**Vistaprint**](https://www.vistaprint.com/reseller/) is a popular printing and marketing materials company. Earn commissions for referred product and service sales.
+11. [markzware](https://www.viglink.com/merchants/14653/markzware-affiliate-program)
 
 ### Design Tools Software Affiliate Programs (Unchecked)
 
@@ -112,12 +113,12 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 15. [iStock](https://www.istockphoto.com/en/affiliates)
 16. [Dreamstime](https://www.dreamstime.com/affiliate-referral-program)
 17. [123RF](https://www.123rf.com/join_affiliate/)
-18. [VectorStock](https://www.vectorstock.com/faq/members/affiliate-programme) 
+18. [VectorStock](https://www.vectorstock.com/faq/members/affiliate-programme)
+19. [Heritage Type Co.](https://www.heritagetype.com/pages/affiliates)
 
 ### Design Freelancing Affiliate Program
 1. [Fiverr](https://affiliates.fiverr.com/)
 1. [DesignHill](https://www.designhill.com/affiliate-program)
-1. Dribbble
 2. [99designs](https://99designs.com/affiliates)
 1. [DesignCrowd](https://www.designcrowd.com/affiliate) 
 
@@ -142,24 +143,27 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 3. [SideDoor](https://www.onsidedoor.com/)
 4. [Build with Ferguson](https://www.build.com/support/affiliates)
 
-### Other Design tools That Should Have Affiliate Program
-1. [**Affinity Designer**](https://affinity.serif.com/en-gb/) is a professional graphic design software.
-1. [**Vectr**](https://vectr.com) is a free vector graphic design software.
-4. [**Marq(Formerly Lucidpress**)](https://www.marq.com/) is a web-based design and layout tool.
-5. [**Scribus**](https://www.scribus.net/affiliates/) is an open-source desktop publishing software.
-6. www.peopleperhour.com
-7. [Nvidia](https://www.nvidia.com/en-us/about-nvidia/partners/), although there is partner network, it is for enterprise-level providing solution and training, and by no means not suitable for freelancer or any designer that works for a company. It will be great if they have an affiliate program for individuals.
-
 ### 3D Design tools affiliate program
 1. [AutoDesk](https://www.autodesk.com/affiliate-program/overview)
 2. [Proto Pie](https://www.go.protopie.io/affiliate) is a prototyping tool used for designing interactive and animated user interfaces. It allows designers and developers to create realistic and interactive prototypes without the need for extensive coding. Protopie is known for its ease of use and the ability to create complex interactions and animations by defining conditions and responses.
-
 
 ### Designer Friendly Marketplace
 1. [Redbubble](https://www.redbubble.com/p/398-affiliate-program)
 2. [Etsy](https://www.etsy.com/affiliates)
 3. [ArtStation](https://www.artstation.com/marketplace/game-dev/affiliate-programs)
 4. [Teespring](https://www.viglink.com/merchants/73379/teespring-affiliate-program)
+
+### Other Design tools That Should Have Affiliate Program
+1. [**Affinity Designer**](https://affinity.serif.com/en-gb/) is a professional graphic design software.
+1. [**Vectr**](https://vectr.com) is a free vector graphic design software.
+4. [**Marq(Formerly Lucidpress**)](https://www.marq.com/) is a web-based design and layout tool.
+5. [**Scribus**](https://www.scribus.net/affiliates/) is an open-source desktop publishing software.
+6. [peopleperhour](https://www.peopleperhour.com/)
+7. [Nvidia](https://www.nvidia.com/en-us/about-nvidia/partners/), although there is partner network, it is for enterprise-level providing solution and training, and by no means not suitable for freelancer or any designer that works for a company. It will be great if they have an affiliate program for individuals.
+8. [DeviantArt](https://www.deviantart.com/)
+9. [Dribbble](https://dribbble.com/)
+
+
 
 ### :arrow_heading_up:Submit your affiliate program
 
