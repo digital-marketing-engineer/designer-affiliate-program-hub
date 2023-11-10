@@ -37,6 +37,9 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 9. [**DesignCap**](https://www.designcap.com/affiliate.html) is an online graphic design tool. Their affiliate program lets you promote DesignCap and earn commissions. Earn a commission for referred subscriptions.
 
 10. [**VistaCreate**](https://create.vista.com/affiliates/) (formerly Crello) is a graphic design tool for creating social media content and marketing materials. Join their affiliate program to promote VistaCreate. Earn commissions for referred Pro and Business subscriptions.
+11. [snappa](https://snappa.com/affiliates)
+12. [Astute Graphics](https://astutegraphics.com/affiliate)
+13. [Pixlr](https://blog.pixlr.com/pixlr-affiliate-partner-program/)
 
 ### UI/UX Design Software Affiliate Programs (Unchecked)
 
@@ -62,7 +65,6 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 11.  [Proto Pie](https://www.go.protopie.io/affiliate) is a prototyping tool used for designing interactive and animated user interfaces. It allows designers and developers to create realistic and interactive prototypes without the need for extensive coding. Protopie is known for its ease of use and the ability to create complex interactions and animations by defining conditions and responses.
 12.  [Framer](https://www.framer.com/partners/) is a design and prototyping tool primarily used for creating interactive and animated user interfaces. Framer allows designers and developers to design high-fidelity prototypes with realistic interactions and animations.
 
-
 ### Web Design Software Affiliate Programs
 
 1. [**Wix**](https://www.wix.com/about/affiliates) is a popular website builder that offers a user-friendly platform for web design. Join their affiliate program to promote Wix services. Earn a commission for each referred premium plan purchase.
@@ -78,6 +80,7 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 8. [**Elementor**](https://elementor.com/affiliates/) is a popular WordPress page builder plugin. Their affiliate program allows you to promote Elementor's features. Earn commissions for referred Elementor Pro plan purchases.
 
 10. [**Divi by Elegant Themes**](https://www.elegantthemes.com/affiliates/) offers the Divi Builder, a popular WordPress page builder. Earn commissions for referred Elegant Themes memberships.
+11. [WebNode](https://www.webnode.com/affiliate/)
 
 ### Print Design Software Affiliate Programs
 
@@ -102,17 +105,61 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 9. [**DesignCap**](https://www.designcap.com/affiliate.html) is an online graphic design tool. Earn a commission for referred subscriptions.
 
 10. [**Visme**](https://www.visme.co/affiliates/) is a visual content creation tool. Earn commissions for referred subscriptions to their design platform.
+11. [TemplateMonster](https://affiliates.templatemonster.com/affiliates/)
+12. [Freepik](https://contributor.freepik.com/)
+13. Depositphotos
+14. [RemoveBG](https://www.remove.bg/affiliate/info)
+15. [iStock](https://www.istockphoto.com/en/affiliates)
+16. [Dreamstime](https://www.dreamstime.com/affiliate-referral-program)
+17. [123RF](https://www.123rf.com/join_affiliate/)
+18. [VectorStock](https://www.vectorstock.com/faq/members/affiliate-programme) 
 
-### Design Freelancing Site
-1. Fiverr
-1. PeoplePerHour
-1. etc
+### Design Freelancing Affiliate Program
+1. [Fiverr](https://affiliates.fiverr.com/)
+1. [DesignHill](https://www.designhill.com/affiliate-program)
+1. Dribbble
+2. [99designs](https://99designs.com/affiliates)
+1. [DesignCrowd](https://www.designcrowd.com/affiliate) 
+
+### Design Learning/ Design Course Affiliate Program
+1. [yesimadesigner](https://yesimadesigner.com/affiliate/)
+
+## Video Editing Tools
+1. [Wondershare](https://www.wondershare.com/business/affiliate.html)
+
+### Design Service Affiliate Program
+1. [ManyPixels](https://www.manypixels.co/affiliates)
+2. [Penji](https://penji.co/affiliate/)
+3. [No Limit Creatives](https://nlc.com/affiliate-program/)
+4. [DotYeti](https://www.dotyeti.com/affiliate-program/)
+5. [All Time Design](https://alltimedesign.com/affiliate/)
+6. [The Free Website Guys](https://thefreewebsiteguys.com/affiliates/)
+7. 
+
+### Interior Design Affiliate Program
+1. [Home Designer Software by Chief Architect](https://www.homedesignersoftware.com/affiliate-program/)
+2. [LTK Creator formerly RewardStyle](https://company.shopltk.com/en/creator)
+3. [SideDoor](https://www.onsidedoor.com/)
+4. [Build with Ferguson](https://www.build.com/support/affiliates)
 
 ### Other Design tools That Should Have Affiliate Program
 1. [**Affinity Designer**](https://affinity.serif.com/en-gb/) is a professional graphic design software.
 1. [**Vectr**](https://vectr.com) is a free vector graphic design software.
 4. [**Marq(Formerly Lucidpress**)](https://www.marq.com/) is a web-based design and layout tool.
 5. [**Scribus**](https://www.scribus.net/affiliates/) is an open-source desktop publishing software.
+6. www.peopleperhour.com
+7. [Nvidia](https://www.nvidia.com/en-us/about-nvidia/partners/), although there is partner network, it is for enterprise-level providing solution and training, and by no means not suitable for freelancer or any designer that works for a company. It will be great if they have an affiliate program for individuals.
+
+### 3D Design tools affiliate program
+1. [AutoDesk](https://www.autodesk.com/affiliate-program/overview)
+2. [Proto Pie](https://www.go.protopie.io/affiliate) is a prototyping tool used for designing interactive and animated user interfaces. It allows designers and developers to create realistic and interactive prototypes without the need for extensive coding. Protopie is known for its ease of use and the ability to create complex interactions and animations by defining conditions and responses.
+
+
+### Designer Friendly Marketplace
+1. [Redbubble](https://www.redbubble.com/p/398-affiliate-program)
+2. [Etsy](https://www.etsy.com/affiliates)
+3. [ArtStation](https://www.artstation.com/marketplace/game-dev/affiliate-programs)
+4. [Teespring](https://www.viglink.com/merchants/73379/teespring-affiliate-program)
 
 ### :arrow_heading_up:Submit your affiliate program
 
