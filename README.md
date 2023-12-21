@@ -37,14 +37,13 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 9. [**DesignCap**](https://www.designcap.com/affiliate.html) is an online graphic design tool. Their affiliate program lets you promote DesignCap and earn commissions. Earn a commission for referred subscriptions.
 
 10. [**VistaCreate**](https://create.vista.com/affiliates/) (formerly Crello) is a graphic design tool for creating social media content and marketing materials. Join their affiliate program to promote VistaCreate. Earn commissions for referred Pro and Business subscriptions.
-11. [snappa](https://snappa.com/affiliates)
-12. [Astute Graphics](https://astutegraphics.com/affiliate)
-13. [Pixlr](https://blog.pixlr.com/pixlr-affiliate-partner-program/)
-14. [Designs.ai](https://designs.ai/en/affiliate)
-15. [Placeit](https://placeit.net/affiliate-program)
-16. [Easil](https://about.easil.com/affiliate-program/)
-17. [Stencil](https://getstencil.com/affiliates)
-18. [Appsumo Design Tools](https://go.appsumo.com/become-appsumo-affiliate) although Appsumo is not only selling design tools, but their website is a must-go-to website for every design. You might find the next Canva there with a lifetime deal.
+11. [Snappa](https://snappa.com/affiliates) is a graphic design tool aimed at non-designers, offering features such as adding text to photos, background removal, image editing, and creating various types of social media graphics. Affiliates receive a unique referral link and can earn a 40% recurring commission for each new customer they refer to Snappa. Designer has potential for earning through various promotional activities, including email marketing, social media sharing, and creating content like blog posts or YouTube videos
+12. [Astute Graphics](https://astutegraphics.com/affiliate) specializes in creating plugins for Adobe Illustrator, designed to save time, enhance creativity, and deliver refined results in vector design. Their products are used by over 200,000 designers worldwide, including large corporations like Adidas, Nike, and NASA. Their affiliate program offers individuals the opportunity to earn commissions by promoting Astute Graphics' products. Affiliates can earn a 10% commission on sales, with the potential for additional incentives and bonuses. The program includes resources like text links, banners, and a regular newsletter with updates and promotions
+13. [Pixlr](https://blog.pixlr.com/pixlr-affiliate-partner-program/) is a part of INMAGINE, a creative ecosystem with a mission to make design easy and accessible for everyone. Since its launch in 2008, Pixlr has been used by content creators of all levels for creating, editing, and sharing images online. It leverages Artificial Intelligence and Machine Learning to simplify content creation. The Pixlr Affiliate Partner Program allows individuals to earn commissions by promoting Pixlr, offering up to a 25% commission rate, a $10 bonus on the first sale, additional sales bonuses, and access to exclusive promotions.
+14. [Designs.ai](https://designs.ai/en/affiliate) is an AI-powered online creative platform that provides users with tools for designing exceptional materials efficiently. Their main tools include Logomaker, Videomaker, Designmaker, and Speechmaker, complemented by free assistive tools. Their affiliate program offers up to 25% commission on each successful referral, with no cap on total commissions and no cost to join. Affiliates can track their earnings through a dashboard. The program targets various groups including marketers, influencers, bloggers, educators, and tech enthusiasts.
+15. [Placeit](https://placeit.net/affiliate-program) is an online service that offers a wide range of mockups, design templates, logo makers, and video tools to create professional-looking visuals. It is widely used by businesses, content creators, and individuals who require high-quality graphic assets without needing extensive design skills. Placeit's tools are known for their ease of use and the variety of options they provide for creating custom designs.
+16. [Easil](https://about.easil.com/affiliate-program/) is a DIY drag-and-drop design tool that helps users create visual content. It offers a range of templates and design features for social media images, infographics, posters, flyers, menus, and more. The tool is designed to be user-friendly, allowing for quick and easy customization of designs. Easil's affiliate program offers recurring commissions for referrals, along with promotional assets like images, banners, and GIFs, and easy payment through PayPal. 
+18. [Appsumo Design Tools](https://go.appsumo.com/become-appsumo-affiliate). Although Appsumo is not only selling design tools, their website is a must-go-to website for every design. You might find the next Canva there with a lifetime deal.
 
 ### UI/UX Design Software Affiliate Programs (Unchecked)
 
@@ -169,6 +168,8 @@ This GitHub repository is your go-to resource for discovering affiliate programs
 7. [Nvidia](https://www.nvidia.com/en-us/about-nvidia/partners/), although there is partner network, it is for enterprise-level providing solution and training, and by no means not suitable for freelancer or any designer that works for a company. It will be great if they have an affiliate program for individuals.
 8. [DeviantArt](https://www.deviantart.com/)
 9. [Dribbble](https://dribbble.com/)
+17. [Stencil](https://getstencil.com/affiliates) is an online tool designed for creating visual content, particularly graphics for social media, blogs, and marketing materials. It offers a range of features like templates, icons, fonts, and photo adjustments to simplify the design process. While their affiliate program is currently closed and not accepting new affiliates, it typically involves earning commissions from referring new customers.
+
 
 ### :arrow_heading_up:Submit your affiliate program
 
